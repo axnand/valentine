@@ -268,7 +268,7 @@ const animationTimeline = () => {
       // Redirection after 's' and 'o'
       setTimeout(() => {
         // Redirect to another website
-        window.location.href = "https://ask-valentine-self.vercel.app/";
+        window.location.href = "https://loader-henna.vercel.app/loader2.html";
       }, 36000);
    
      // Restart Animation on click
